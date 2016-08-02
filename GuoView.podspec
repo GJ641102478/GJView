@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   # s.platform     = :ios
   s.platform     = :ios, "5.0"
 
-  s.source       = { :git => "https://github.com/gj65251580/GJView.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/gj65251580/GJView.git", :tag => "version" }
 
   s.source_files  = "GuoView", "GuoView/*.{h,m}"
 
